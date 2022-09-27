@@ -1,0 +1,15 @@
+html {
+    background-color: #000;
+    color:#fff;
+    text-align: center;
+    font-family: sans-serif;
+}
+a{
+    color:orange;
+}
+a:hover{
+    color:orangered;
+}
+img{
+    max-width: 100%;
+}
